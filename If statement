@@ -1,0 +1,7 @@
+class IfDemo {
+  public static void main(String[] args) {
+     int i = 10;
+    if(1<15)
+System.out.println("10 is less than 15");
+}
+}
